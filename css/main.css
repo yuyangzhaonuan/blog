@@ -1792,7 +1792,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ad1a7e;
+  background: #e2dbc9;
 }
 .feed-link,
 .chat {
@@ -2741,7 +2741,7 @@ hr {
   }
 }
 body {
-  background-image: url("/images/backgirl.png");
+  background-image: url("../images/backgirl.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2788,11 +2788,11 @@ body {
 }
 @font-face {
   font-family: 'hkww';
-  src: url("/fonts/hkww.ttf");
+  src: url("../fonts/hkww.ttf");
 }
 @font-face {
   font-family: 'huayang';
-  src: url("/fonts/huayang.ttf");
+  src: url("../fonts/huayang.ttf");
 }
 .hide-button {
   position: absolute;
