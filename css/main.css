@@ -153,7 +153,7 @@ template {
 }
 body {
   position: relative;
-  font-family: 'huayang', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 2;
   color: #555;
@@ -179,7 +179,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'huayang', 'huayang', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h1 {
   font-size: 24px;
@@ -504,7 +504,7 @@ pre,
 }
 pre,
 code {
-  font-family: 'Roboto Mono', consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace;
 }
 code {
   overflow-wrap: break-word;
@@ -1126,7 +1126,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 20px;
   font-weight: normal;
-  font-family: 'huayang', 'huayang', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1219,7 +1219,7 @@ pre .javascript .function {
 .post-body {
   overflow-wrap: break-word;
   word-wrap: break-word;
-  font-family: 'huayang', 'huayang', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .post-body span.exturl .fa {
   font-size: 14px;
@@ -1496,7 +1496,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #000;
-  font-family: 'huayang', 'huayang', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1792,7 +1792,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e2dbc9;
+  background: #a26777;
 }
 .feed-link,
 .chat {
@@ -2741,7 +2741,7 @@ hr {
   }
 }
 body {
-  background-image: url("../images/backgirl.png");
+  background-image: url("/blog/images/backgirl.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2765,7 +2765,6 @@ body {
 }
 .sidebar {
   background: rgba(41,36,33,0.3);
-  font-family: 'hkww';
 }
 .sidebar-toggle {
   background: rgba(41,36,33,0.3);
@@ -2785,14 +2784,6 @@ body {
 }
 .site-meta {
   margin-left: 66px;
-}
-@font-face {
-  font-family: 'hkww';
-  src: url("../fonts/hkww.ttf");
-}
-@font-face {
-  font-family: 'huayang';
-  src: url("../fonts/huayang.ttf");
 }
 .hide-button {
   position: absolute;
